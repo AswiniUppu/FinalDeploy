@@ -1624,3 +1624,14 @@
 [NX Daemon Server] - 2024-12-03T11:50:22.119Z - [WATCHER]: Stopping the watcher for C:\Users\aswini.u\Desktop\strapi\strapi (sources)
 [NX Daemon Server] - 2024-12-03T11:50:22.123Z - [WATCHER]: Stopping the watcher for C:\Users\aswini.u\Desktop\strapi\strapi (outputs)
 [NX Daemon Server] - 2024-12-03T11:50:22.199Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2026-11-15T08:37:01.327Z - Started listening on: /tmp/ffc1fc250be594fcd452/d.sock
+[NX Daemon Server] - 2026-11-15T08:37:01.329Z - [WATCHER]: Subscribed to changes within: /home/runner/work/FinalDeploy/FinalDeploy (native)
+[NX Daemon Server] - 2026-11-15T08:37:01.339Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2026-11-15T08:37:01.340Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2026-11-15T08:37:01.349Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2026-11-15T08:37:01.357Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2026-11-15T08:37:01.357Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2026-11-15T08:37:01.357Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2026-11-15T08:37:01.358Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2026-11-15T08:37:01.358Z - [WATCHER]: Stopping the watcher for /home/runner/work/FinalDeploy/FinalDeploy (sources)
+[NX Daemon Server] - 2026-11-15T08:37:01.363Z - [WATCHER]: Stopping the watcher for /home/runner/work/FinalDeploy/FinalDeploy (outputs)
